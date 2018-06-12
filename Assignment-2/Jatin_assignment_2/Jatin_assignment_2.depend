@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1524634901 source:d:\1st sem mca\mca203-cg\assignment-2\jatin_assignment_2\barchart.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1524633779 source:d:\1st sem mca\mca203-cg\assignment-2\jatin_assignment_2\restrictmouse.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+
+1524634094 source:d:\1st sem mca\mca203-cg\assignment-2\jatin_assignment_2\smiley.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<time.h>
+
+1524638151 source:d:\1st sem mca\mca203-cg\assignment-2\jatin_assignment_2\twocircles.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+
+1524636684 source:d:\1st sem mca\mca203-cg\assignment-2\jatin_assignment_2\trafficsimulation.cpp
+	<iostream>
+	<graphics.h>
+	<dos.h>
+
