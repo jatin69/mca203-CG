@@ -1,3 +1,3 @@
-# mca2013-Computer-Graphics
+# mca203-Computer-Graphics
 
 Assignments and Lab Questions
